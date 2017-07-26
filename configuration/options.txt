@@ -1,0 +1,22 @@
+-opensource
+-confirm-license
+-nomake tests
+-nomake examples
+-no-sql-mysql
+-no-sql-sqlite
+-no-sql-db2
+-no-sql-ibase
+-no-sql-psql
+-no-sql-oci
+-no-sql-odbc
+-no-sql-sqlite2
+-no-sql-tds
+-no-pch
+-no-icu
+-no-dbus
+-no-cups
+-no-evdev
+-no-iconv
+-no-warnings-are-errors
+-no-qml-debug
+-force-debug-info
