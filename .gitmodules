@@ -1,0 +1,6 @@
+[submodule "qt-src"]
+	path = qt-src
+	url = git://code.qt.io/qt/qt5.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:emileb/OpenSSL-for-Android-Prebuilt.git
