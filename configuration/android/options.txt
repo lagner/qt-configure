@@ -1,3 +1,4 @@
 -no-android-style-assets
 -openssl-linked
--qreal float
+-no-rpath
+-no-dbus
