@@ -53,7 +53,7 @@ ssl=""
 ssl_includes=""
 
 if [ "$platform" == "android" ]; then
-    ssl="-lssl -lcrypto -L$/$ssl_root/$arch/lib"
+    ssl="-L$ssl_root/$arch/lib -lssl -lcrypto"
     ssl_includes="-I$ssl_headers"
 fi
 
