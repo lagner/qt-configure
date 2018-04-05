@@ -5,7 +5,6 @@ graphicsview
 graphicseffect
 style-stylesheet
 style-windows
-style-windowsxp
 style-windowsvista
 style-fusion
 style-android
@@ -29,4 +28,10 @@ dockwidget
 tabbar
 tabwidget
 filedialog
-
+widgets
+statx
+geoservices_osm
+geoservices_here
+geoservices_esri
+geoservices_mapbox
+geoservices_mapboxgl
