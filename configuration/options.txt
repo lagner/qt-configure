@@ -13,10 +13,10 @@
 -no-sql-tds
 -no-pch
 -no-icu
--no-dbus
 -no-cups
 -no-evdev
 -no-iconv
--no-warnings-are-errors
 -no-qml-debug
+-no-warnings-are-errors
+-no-widgets
 -force-debug-info

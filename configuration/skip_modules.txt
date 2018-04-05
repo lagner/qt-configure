@@ -1,6 +1,4 @@
 qttranslations
-qtwebkit
-qtwebkit-examples
 qtwebchannel
 qtwebengine
 qtwebview
@@ -25,11 +23,9 @@ qtcharts
 qtscript
 qtenginio
 qtspeech
-qtlocation
 qtcanvas3d
 qtenginio
 qtremoteobjects
-qtsensors
 qtnetworkauth
 qtvirtualkeyboard
 qtgamepad

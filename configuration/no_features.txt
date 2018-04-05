@@ -7,12 +7,9 @@ effects
 socks5
 ftp
 paint_debug
-printpreviewdialog
 inputdialog
 errormessage
 progressdialog
-printer
-printdialog
 graphicsview
 sql-db2
 sql-ibase
@@ -25,3 +22,10 @@ sql-sqlite
 system-sqlite
 sql-tds
 quickcontrols2-universal
+cups
+cupsjobwidget
+printer
+printpreviewwidget
+printdialog
+printpreviewdialog
+opensslv11
